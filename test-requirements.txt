@@ -1,3 +1,4 @@
 odoo_test_helper
 requests-mock
 vcrpy-unittest
+odoo-addon-storage_image_import @ git+https://github.com/OCA/storage.git@refs/pull/392/head#subdirectory=setup/storage_image_import
